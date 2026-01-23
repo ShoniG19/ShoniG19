@@ -1,3 +1,10 @@
+<div align="center">
+  
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/ShoniG19/ShoniG19/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ShoniG19/ShoniG19/blob/main/README.en.md)
+
+</div>
+
 # 👋 ¡Hola! Soy ShoniG19
 
 <div align="center">
