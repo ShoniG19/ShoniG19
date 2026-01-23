@@ -25,12 +25,6 @@ Soy estudiante de **Ingeniería en Informática** apasionado por la programació
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ShoniG19)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShoniG19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false" alt="ShoniG19's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoniG19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
