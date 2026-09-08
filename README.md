@@ -8,12 +8,12 @@
 # 👋 ¡Hola! Soy ShoniG19
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Desarrollador+apasionado;Siempre+aprendiendo+cosas+nuevas;Bienvenido+a+mi+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Desarrollador+apasionado;Siempre+aprendiendo+cosas+nuevas;Bienvenido+a+mi+perfil!" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mí
 
-Soy estudiante de **Ingeniería en Informática** apasionado por la programación y el desarrollo de software. Me encanta aprender nuevas tecnologías y enfrentar desafíos que me permitan crecer como desarrollador. Disfruto crear soluciones innovadoras y explorar diferentes áreas de la informática, desde el desarrollo web hasta la programación de sistemas, pasando por QA, automatización de procesos. Me interesa todo el ciclo de desarrollo de software y cómo las diferentes disciplinas se complementan para crear productos de calidad. Cada línea de código es una oportunidad para aprender algo nuevo y mejorar mis habilidades.
+Soy egresado de **Ingeniería en Informática** apasionado por la programación y el desarrollo de software. Me encanta aprender nuevas tecnologías y enfrentar desafíos que me permitan crecer como desarrollador. Disfruto crear soluciones innovadoras y explorar diferentes áreas de la informática, desde el desarrollo web hasta la programación de sistemas, pasando por QA, automatización de procesos. Me interesa todo el ciclo de desarrollo de software y cómo las diferentes disciplinas se complementan para crear productos de calidad. Cada línea de código es una oportunidad para aprender algo nuevo y mejorar mis habilidades.
 
 ## 🛠️ Tecnologías y Herramientas
 
