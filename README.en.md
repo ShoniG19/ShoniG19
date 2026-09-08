@@ -8,12 +8,12 @@
 # 👋 Hi! I'm ShoniG19
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Passionate+Developer;Always+learning+new+things;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Passionate+Developer;Always+learning+new+things;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a **Computer Engineering** student passionate about programming and software development. I love learning new technologies and facing challenges that allow me to grow as a developer. I enjoy creating innovative solutions and exploring different areas of computer science, from web development to systems programming, including QA and process automation. I'm interested in the entire software development lifecycle and how different disciplines complement each other to create quality products. Every line of code is an opportunity to learn something new and improve my skills.
+I'm a**Computer Engineering** graduate, passionate about programming and software development. I love learning new technologies and facing challenges that allow me to grow as a developer. I enjoy creating innovative solutions and exploring different areas of computer science, from web development to systems programming, including QA and process automation. I'm interested in the entire software development lifecycle and how different disciplines complement each other to create quality products. Every line of code is an opportunity to learn something new and improve my skills.
 
 ## 🛠️ Technologies & Tools
 
